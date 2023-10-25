@@ -6,7 +6,7 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLnV7i1DUV_zP6BV1xoy0TV5IkPcYtz6rx&si=d8KqAEVtfo6-nY4Z)
 
-<img src="https://assets.stickpng.com/images/62c48bd4d884e8c372162224.png" align="center" width="280"> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" align="center" width="280"> <br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
