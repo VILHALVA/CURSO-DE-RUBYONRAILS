@@ -2,6 +2,7 @@
 👨‍⚖️RUBY ON RAILS É UM FRAMEWORK DE DESENVOLVIMENTO WEB ESCRITO EM RUBY. ELE SEGUE O PADRÃO MVC (MODEL-VIEW-CONTROLLER) E FACILITA A CRIAÇÃO DE APLICATIVOS WEB, FORNECENDO UMA ESTRUTURA ORGANIZADA E CONVENÇÕES DE CODIFICAÇÃO. É CONHECIDO POR SUA SIMPLICIDADE E PRODUTIVIDADE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=RUBYONRAILS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://guides.rubyonrails.org/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLnV7i1DUV_zP6BV1xoy0TV5IkPcYtz6rx&si=d8KqAEVtfo6-nY4Z)
