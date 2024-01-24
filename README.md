@@ -2,15 +2,9 @@
 👨‍⚖️RUBY ON RAILS É UM FRAMEWORK DE DESENVOLVIMENTO WEB ESCRITO EM RUBY. ELE SEGUE O PADRÃO MVC (MODEL-VIEW-CONTROLLER) E FACILITA A CRIAÇÃO DE APLICATIVOS WEB, FORNECENDO UMA ESTRUTURA ORGANIZADA E CONVENÇÕES DE CODIFICAÇÃO. É CONHECIDO POR SUA SIMPLICIDADE E PRODUTIVIDADE.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=RUBYONRAILS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://guides.rubyonrails.org/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-RUBY) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-RUBY)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLnV7i1DUV_zP6BV1xoy0TV5IkPcYtz6rx&si=d8KqAEVtfo6-nY4Z)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/2560px-Ruby_On_Rails_Logo.svg.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Ruby on Rails, muitas vezes abreviado como Rails, é um popular framework de desenvolvimento web escrito em Ruby. Ele foi criado para tornar o desenvolvimento de aplicativos web mais rápido e mais fácil, seguindo o princípio de convenção sobre configuração. Aqui estão alguns conceitos-chave e exemplos de código para você começar:
