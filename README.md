@@ -72,3 +72,4 @@ Em geral, Ruby on Rails é uma escolha sólida para o desenvolvimento web, espec
 - [VEJA A DOCUMENTAÇÃO](https://guides.rubyonrails.org/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-RUBY)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:RUBYONRAILS)
